@@ -25,6 +25,7 @@ class Math:
     RATIONALSET   = "ℚ"
     REALSET       = "ℝ"
     COMPLEXSET    = "ℂ"
+    QUATSET       = "ℍ"
     PRIME         = "′"
     DOUBLEPRIME   = "″"
     TRIPLEPRIME   = "‴"
